@@ -4,7 +4,13 @@
     box-sizing: border-box;
 }
 
+h1 {
+    font-size: 36px;
+    color: #4CAF50;
+}
+
 button {
     background-color: #4CAF50;
     color: #fff;
+    padding: 10px;
 }
